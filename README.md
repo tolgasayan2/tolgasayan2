@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tolga Sayan
 - 👀 I’m interested in Swift Programming Language
 - 💞️ I’m looking to collaborate on any innovative technology
-- 📫 How to reach me tolgasyn2@gmail.com
+- 📫 How to reach me tolgasayan@icloud.com
 
 <!---
 tolgasayan2/tolgasayan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

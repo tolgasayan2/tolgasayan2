@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tolga Sayan
 - 👀 I’m interested in Swift Programming Language
-- 🌱 I’m currently learning Design Patterns & UI frameworks 
 - 💞️ I’m looking to collaborate on any innovative technology
 - 📫 How to reach me tolgasyn2@gmail.com
 
